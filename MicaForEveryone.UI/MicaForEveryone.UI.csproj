@@ -193,6 +193,9 @@
     </PRIResource>
     <PRIResource Include="Strings\az\Resources.resw">
       <SubType>Designer</SubType>
+<PRIResource Include="Strings\bg\Resources.resw">
+    <SubType>Designer</SubType>
+</PRIResource>
     </PRIResource>
     <PRIResource Include="Strings\en\Resources.resw">
       <SubType>Designer</SubType>
